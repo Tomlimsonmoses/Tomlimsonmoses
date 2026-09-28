@@ -138,7 +138,20 @@ email       : tomlimsonurombo@gmail.com
 ### 📈 Contribution Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tomlimsonmoses&theme=tokyo-night&hide_border=true&bg_color=0B1120&color=06B6D4&line=06B6D4&point=7C3AED&area=true&area_color=06B6D4" alt="Contribution Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tomlimsonmoses&bg_color=0F172A&color=06B6D4&line=06B6D4&point=7C3AED&area=true&hide_border=true" alt="Contribution Activity Graph"/>
+</div>
+
+### 📦 All Repositories
+
+<div align="center">
+
+[![payroll-backend](https://img.shields.io/badge/payroll--backend-Enterprise_Payroll_API-06B6D4?style=for-the-badge&logo=github)](https://github.com/Tomlimsonmoses/payroll-backend)
+[![payroll-frontend](https://img.shields.io/badge/payroll--frontend-Payroll_UI-7C3AED?style=for-the-badge&logo=github)](https://github.com/Tomlimsonmoses/payroll-frontend)
+[![zim-herb-vault-backend](https://img.shields.io/badge/zim--herb--vault--backend-Herb_Vault_API-06B6D4?style=for-the-badge&logo=github)](https://github.com/Tomlimsonmoses/zim-herb-vault-backend)
+[![zim-herb-vault-frontend](https://img.shields.io/badge/zim--herb--vault--frontend-Herb_Vault_UI-7C3AED?style=for-the-badge&logo=github)](https://github.com/Tomlimsonmoses/zim-herb-vault-frontend)
+[![ML_NBA](https://img.shields.io/badge/ML__NBA-NBA_Predictions_ML-06B6D4?style=for-the-badge&logo=github)](https://github.com/Tomlimsonmoses/ML_NBA)
+[![GDP_prediction](https://img.shields.io/badge/GDP__prediction-Economic_Forecasting-7C3AED?style=for-the-badge&logo=github)](https://github.com/Tomlimsonmoses/GDP_prediction)
+
 </div>
 
 ---
